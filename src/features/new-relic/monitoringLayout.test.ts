@@ -1,5 +1,5 @@
 import { describe, expect, it } from "vitest";
-import { backendTimeoutEvidencePackage } from "../../evidence/backendTimeoutEvidencePackage";
+import { backendTimeoutEvidencePackage } from "../../domain/evidence/backendTimeoutEvidencePackage";
 import {
   buildMonitoringViewModel,
   MONITORING_TABS,

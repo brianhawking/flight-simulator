@@ -1,4 +1,4 @@
-import { EvidencePackage } from "../../types/evidence";
+import { EvidencePackage } from "../../domain/types/evidence";
 
 export type DashboardTab = "api" | "feature" | "backend";
 

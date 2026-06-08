@@ -1,4 +1,4 @@
-import { BreakdownDefinition } from "../../../types/evidence";
+import { BreakdownDefinition } from "../../../domain/types/evidence";
 
 type BreakdownsPanelProps = {
   breakdowns: BreakdownDefinition[];

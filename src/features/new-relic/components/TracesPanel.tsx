@@ -1,4 +1,4 @@
-import { TraceRecord } from "../../../types/evidence";
+import { TraceRecord } from "../../../domain/types/evidence";
 
 type TracesPanelProps = {
   traces: TraceRecord[];

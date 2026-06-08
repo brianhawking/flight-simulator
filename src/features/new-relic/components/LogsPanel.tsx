@@ -1,4 +1,4 @@
-import { LogRecord } from "../../../types/evidence";
+import { LogRecord } from "../../../domain/types/evidence";
 
 type LogsPanelProps = {
   logs: LogRecord[];

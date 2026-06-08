@@ -1,5 +1,5 @@
 import { useMemo, useState } from "react";
-import { EvidencePackage } from "../../types/evidence";
+import { EvidencePackage } from "../../domain/types/evidence";
 import { ChartsPanel } from "./components/ChartsPanel";
 import { BreakdownsPanel } from "./components/BreakdownsPanel";
 import { LogsPanel } from "./components/LogsPanel";

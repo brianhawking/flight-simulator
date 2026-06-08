@@ -1,4 +1,4 @@
-import { SummaryCard } from "../../../types/evidence";
+import { SummaryCard } from "../../../domain/types/evidence";
 
 type SummaryCardsProps = {
   cards: SummaryCard[];

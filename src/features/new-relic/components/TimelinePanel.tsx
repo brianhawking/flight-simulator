@@ -1,4 +1,4 @@
-import { TimelineMarker } from "../../../types/evidence";
+import { TimelineMarker } from "../../../domain/types/evidence";
 
 type TimelinePanelProps = {
   markers: TimelineMarker[];

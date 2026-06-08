@@ -1,4 +1,4 @@
-import { ChartDefinition } from "../../../types/evidence";
+import { ChartDefinition } from "../../../domain/types/evidence";
 
 type ChartsPanelProps = {
   charts: ChartDefinition[];
